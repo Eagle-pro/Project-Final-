@@ -12,5 +12,4 @@ public enum InstitutionType {
     VOCATIONAL_TRAINING,
     HEALTH_FACILITY,
     RESTAURANT,
-    OTHER
 }

@@ -38,4 +38,16 @@ public class ServiceProvider {
 
     @Enumerated(EnumType.STRING)
     private InstitutionType institutionType;
+
+    public void setCapacity(int i) {
+    }
+
+    public void setPhone(String s) {
+    }
+
+    public void setEmail(String mail) {
+    }
+
+    public void setDescription(String s) {
+    }
 }

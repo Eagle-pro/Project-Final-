@@ -72,14 +72,10 @@ public class ServiceProviderController {
     }
 
     private ServiceProviderDTO convertToDTO(ServiceProvider serviceProvider) {
-        // Implement the conversion logic from ServiceProvider to ServiceProviderDTO
-        // This is a placeholder and should be replaced with actual implementation
         return new ServiceProviderDTO();
     }
 
     private ServiceProvider convertToEntity(ServiceProviderDTO dto) {
-        // Implement the conversion logic from ServiceProviderDTO to ServiceProvider
-        // This is a placeholder and should be replaced with actual implementation
         return new ServiceProvider();
     }
 }

@@ -6,5 +6,4 @@ import org.springframework.context.annotation.Profile;
 @Configuration
 @Profile("demo")
 public class ServiceProviderDemoData {
-    // ... (rest of the code remains the same)
 }
