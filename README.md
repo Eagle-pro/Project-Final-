@@ -43,7 +43,7 @@ Type of Institution
             -	Health facility 
             -	Restaurants 
             -	others
-It has the following roles – 
+It has the following roles 
             -	admin
             -	Client
 It will have a form for the client to be registered with full name, email, phone number and residence address and choose kind of services that they seek to get from the list of type of services. 
